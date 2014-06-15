@@ -10,3 +10,6 @@ mjpg-streamer/
 build/
 dist/
 *.egg-info/
+
+#config
+chickenfoot.json
