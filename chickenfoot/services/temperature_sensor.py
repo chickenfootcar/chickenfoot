@@ -20,4 +20,4 @@ class TemperatureSensor(Service):
         temp = self.sensors.getTempC(self.addr)
         print temp
         self.communicator.send(str(temp))
-        time.sleep(5)
+        time.sleep(30)
