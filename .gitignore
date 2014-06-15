@@ -5,3 +5,8 @@ venv
 #external tools, libs
 nanpy/
 mjpg-streamer/
+
+#build files
+build/
+dist/
+*.egg-info/
